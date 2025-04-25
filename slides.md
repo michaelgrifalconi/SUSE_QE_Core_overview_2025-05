@@ -1,30 +1,40 @@
-### Achievements and roadmap
+### Achievements and changes
 
 #### Recent achievements (since the last meeting)
 
 <small>
 
-* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 500+ (from 417) tickets since last report:
- * 28% openQA feature requests (+), 20% bugs (+), 40% infrastructure (-), 12% other (-)
- * Migration to QE setup in PRG2+NUE3 while ensuring availability [poo#121720](https://progress.opensuse.org/issues/121720)
- * We could shift focus again to development
- * Podcasts and workshops on https://open.qa
- * Onboarding new members
-* From [monitor dashboard](https://monitor.qa.suse.de/):
- * Availability of OSD 98.3%, decrease but higher requirements
+* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 530+ (from 500) tickets since last report:
+ * Fair split among sub-teams: 50% *dev*, 50% *infra*
+ * Full version control awareness within openQA [poo#58184](https://progress.opensuse.org/issues/58184)
+ * SUSE deployment of Linux Endpoint Protection Agent [poo#173854](https://progress.opensuse.org/issues/173854)
+ * Migration out of NUE3 [poo#175509](https://progress.opensuse.org/issues/175509)
+* Onboarding more members
+* [team collaboration ad video](https://www.youtube.com/shorts/Y5_LeNhGqk0)
 
 </small>
 
-
-
-#### Roadmap of the next period
+#### Important changes
 
 <small>
 
-Improve the user experience benefitting biggest user groups + common-criteria network separation:
-* (old) Full version control awareness within openQA [poo#58184](https://progress.opensuse.org/issues/58184)
-* openQA for SUSE customers [poo#127031](https://progress.opensuse.org/issues/127031)
-* Support CC-compliance of PRG2 while ensuring business continuity [poo#165282](https://progress.opensuse.org/issues/165282)
+* Successfully progressed with the team split proposal
+ * original proposal: "To succeed with the roadmap+helping both internal+external customers extend the team by 4 FTEs and split into two"
+* From [monitor dashboard](https://monitor.qa.suse.de/):
+ * Availability of OSD 96%, significant decrease (!)
+
+</small>
+
+---
+
+### Roadmap of the next period
+
+<small>
+
+Improve the openQA experience benefitting biggest user groups while staying compliant as well as performant:
+* (old) openQA for SUSE customers [poo#127031](https://progress.opensuse.org/issues/127031)
+* (old) Support CC-compliance of PRG2 while ensuring business continuity [poo#165282](https://progress.opensuse.org/issues/165282)
+* Support switch to gitea for openSUSE/SUSE based products, e.g. SLE16 [poo#180626](https://progress.opensuse.org/issues/180626)
 
 See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?query_id=524) for reference
 
@@ -38,7 +48,7 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* CC-compliance plans (or non-plans) are a disruption but we will survive :)
+* Growing requirements on OSD – more products, more versions, more tests, more users - are straining team resources
 
 </small>
 
@@ -48,10 +58,8 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 <small>
 
 * Infrastructure administration ressources: Short term: ~~Rotation~~, long
-  term: Team extension?
-* Hardware: We are good :)
-* Proposal: To suceed with the roadmap+helping both internal+external
-  customers extend the team by 4 FTEs and split into two
+  term: Team extension
+* Hardware: Please don't give us more hardware :)
 
 See https://progress.opensuse.org/projects/openqav3/wiki/#openQA-infrastructure-needs-o3-osd
 for reference
@@ -61,7 +69,7 @@ for reference
 ---
 
 ### Scope
-* Recent achievements (since the last meeting)
+* Recent achievements and changes (since the last meeting)
 * Roadmap of the next period
 * Impediments to the roadmap
 * Resource requirements
