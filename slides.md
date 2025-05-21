@@ -1,13 +1,20 @@
 ### Achievements
 
-#### Recent achievements
-
 <small>
 
 * No troubles
  * Deadlines, test review, new test development, new product setup
  * Test stability
+ * Helped other squads on SLE 16 Functional testing setup
 * All during a PO switch and being more and more short staffed.
+
+</small>
+
+#### Important changes
+
+<small>
+
+* Richard Fan stepping in as Deputy PO
 
 </small>
 
@@ -46,13 +53,10 @@
  * Felix on permanent rotation 	- not replaced
  * Volodymyr new hire moved to QAC with plan to replace 	- hiring blocked
 
-* Xiaojing joined on rotation, but now it’s over
-
 * This leave us with 6 people, where:
  * One is me, doing PO/SM
  * Zaoliang focus on manual testing
-* Meaning 4 people working on regular sprint tasks
-* We are doing good but I feel we are one dropout from disaster.
+
 
 
 
@@ -63,7 +67,7 @@
 
 <small>
 
-* We need more people
+* We are doing good but I feel we are one dropout from disaster.
 
 </small>
 
