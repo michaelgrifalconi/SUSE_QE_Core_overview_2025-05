@@ -35,6 +35,7 @@
 * Reorganize how we work
  * Review and close lots of old forgotten tickets
  * Try out the new way to organize tickets (Icebox, Shortlist,Ready)
+ * Workshop in June and meet with QE-Security
 * Harmonize tests
  * Between products, versions, openSUSE
 * Continue talks between L3 and QE Kernel squad to provide openQA validation of PTF
