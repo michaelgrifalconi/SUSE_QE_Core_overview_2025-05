@@ -3,12 +3,14 @@
 <small>
 
 * No troubles
- * Deadlines, test review, new test development, new product setup
+ * Deadlines, test review, new test development(like SysMan Module, Kea), new product setup (SP7, SLE16)
  * Test stability
  * Helped other squads on SLE 16 Functional testing setup
 * All during a PO switch and being more and more short staffed.
 
 </small>
+
+#### 
 
 #### Important changes
 
