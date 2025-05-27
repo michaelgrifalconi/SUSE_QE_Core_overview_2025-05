@@ -7,10 +7,10 @@
  * Test stability
  * Helped other squads on SLE 16 Functional testing setup
 * All during a PO switch and being more and more short staffed.
+<br>
 
 </small>
 
-<br>
 
 #### Important changes
 
